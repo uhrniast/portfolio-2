@@ -1,5 +1,5 @@
 {
-  "theme": "royal",
+  "theme": "forest",
   "hero": {
     "greeting": "Hi, Welcome to my Portfolio",
     "name": "SUNAY",
@@ -173,13 +173,6 @@
       "level": 80,
       "color": "#4df96a",
       "category": "werty"
-    },
-    {
-      "icon": "⚡",
-      "name": "New Skill qwertyui",
-      "level": 80,
-      "color": "#F95C4B",
-      "category": "Other"
     }
   ],
   "education": [
@@ -243,19 +236,13 @@
       ]
     },
     {
-      "degree": "New Degree",
-      "institution": "scollege",
+      "degree": "New Degree shopping",
+      "institution": "",
       "year": "2024",
-      "location": "dsfhfdslof",
-      "grade": " sfgdliszzfy",
-      "description": "szgflizs",
-      "achievements": [
-        "aszd",
-        "g",
-        "vsfgusf",
-        "fikdft",
-        "fsz8u."
-      ]
+      "location": "",
+      "grade": "",
+      "description": "",
+      "achievements": []
     }
   ],
   "projects": [
@@ -378,20 +365,6 @@
       "stars": "5",
       "featured": false,
       "color": "#F95C4B"
-    },
-    {
-      "title": "New Project",
-      "year": "2024",
-      "category": "Web gfishf",
-      "description": "zfb,bzvlo",
-      "repo": "zfb,kzhfo.szf",
-      "demo": "zfzjfdkh",
-      "tech": [
-        "fsfgiszolf"
-      ],
-      "stars": "7",
-      "featured": true,
-      "color": "#F95C4B"
     }
   ],
   "internships": [
@@ -475,23 +448,17 @@
       "mentorNote": ""
     },
     {
-      "company": "Company pova ",
+      "company": "Company shopping",
       "role": "Role",
       "logo": "C",
       "color": "#4285F4",
       "duration": "2024",
-      "location": "wertyy",
+      "location": "",
       "type": "On-site",
-      "description": "sadfgcvbnm,",
-      "tech": [
-        "sdzfghj"
-      ],
-      "achievements": [
-        "zxdfcgvhjgbh",
-        "dsjhjgrlkh",
-        "sgzgbgskfg"
-      ],
-      "mentorNote": "sadfdghj"
+      "description": "",
+      "tech": [],
+      "achievements": [],
+      "mentorNote": ""
     }
   ],
   "certificates": [
@@ -560,14 +527,14 @@
       "description": "AEFCCGJKHFDFJLKGMNBFVHDGSTREYAURJKHYKLFD;OIUYT"
     },
     {
-      "title": "New Certificate gdkzhdaljahsjighwfwo;dw pabbathi",
-      "issuer": "afkdfhaldhdsfk",
+      "title": "New Certificate shopping",
+      "issuer": "",
       "date": "2024",
       "icon": "🏅",
-      "color": "#f94dcb",
-      "credentialId": "asdfghjh",
-      "verifyUrl": "aSdzftgyhjhk,j",
-      "description": "dsZDbkandgjajdgfdfkszcfbszidg"
+      "color": "#F95C4B",
+      "credentialId": "",
+      "verifyUrl": "",
+      "description": ""
     }
   ],
   "contact": {
