@@ -1,0 +1,545 @@
+{
+  "theme": "teal",
+  "hero": {
+    "greeting": "Hi, Welcome to my Portfolio",
+    "name": "SUNAY",
+    "title": "Creative Developer",
+    "typingTexts": [
+      "Full Stack Developer",
+      "UI/UX Designer",
+      "Open Source Contributor",
+      "Problem Solver",
+      "Tech Enthusiast"
+    ],
+    "description": "I craft beautiful digital experiences that live at the intersection of art and engineering. Let's build something extraordinary together."
+  },
+  "marquee": {
+    "items": [
+      "🚀 Open to Opportunities",
+      "⚡ Full Stack Dev",
+      "🎨 UI/UX Design",
+      "🌐 Web3 Ready",
+      "☁️ Cloud Native",
+      "🤖 AI/ML Enthusiast",
+      "📱 Mobile First",
+      "🔥 React & Node.js",
+      "🛠️ DevOps Savvy",
+      "✨ Creative Coder"
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "The story behind the code",
+    "description": "I'm a passionate full-stack developer with 3+ years of experience building scalable web applications. I love turning complex problems into elegant, user-friendly solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or sketching UI concepts.",
+    "details": [
+      {
+        "icon": "👤",
+        "label": "Name",
+        "value": "SUNAY"
+      },
+      {
+        "icon": "🎂",
+        "label": "Age",
+        "value": "24 Years"
+      },
+      {
+        "icon": "📍",
+        "label": "city",
+        "value": "proddatur -516360"
+      },
+      {
+        "icon": "📧",
+        "label": "Email",
+        "value": "hopeyourself04@portfolio.dev"
+      },
+      {
+        "icon": "🎓",
+        "label": "B-Tech",
+        "value": "B.Tech Computer Science"
+      },
+      {
+        "icon": "✅",
+        "label": "Status",
+        "value": "Available for Hire"
+      },
+      {
+        "icon": "✨",
+        "label": "Label",
+        "value": "Value"
+      }
+    ],
+    "funFacts": [
+      "☕ Coffee-powered developer",
+      "🌙 Night owl coder",
+      "🎮 Gamer on weekends",
+      "📚 Avid tech reader"
+    ]
+  },
+  "skills": [
+    {
+      "name": "React.js",
+      "level": 92,
+      "color": "#61DAFB",
+      "icon": "⚛️",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node.js",
+      "level": 88,
+      "color": "#68A063",
+      "icon": "🟢",
+      "category": "Backend"
+    },
+    {
+      "name": "TypeScript",
+      "level": 85,
+      "color": "#3178C6",
+      "icon": "📘",
+      "category": "Language"
+    },
+    {
+      "name": "Python",
+      "level": 80,
+      "color": "#FFD43B",
+      "icon": "🐍",
+      "category": "Language"
+    },
+    {
+      "name": "MongoDB",
+      "level": 82,
+      "color": "#47A248",
+      "icon": "🍃",
+      "category": "Database"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 78,
+      "color": "#336791",
+      "icon": "🐘",
+      "category": "Database"
+    },
+    {
+      "name": "Docker",
+      "level": 75,
+      "color": "#2496ED",
+      "icon": "🐳",
+      "category": "DevOps"
+    },
+    {
+      "name": "AWS",
+      "level": 70,
+      "color": "#FF9900",
+      "icon": "☁️",
+      "category": "Cloud"
+    },
+    {
+      "name": "Figma",
+      "level": 88,
+      "color": "#F24E1E",
+      "icon": "🎨",
+      "category": "Design"
+    },
+    {
+      "name": "Git/GitHub",
+      "level": 95,
+      "color": "#F05032",
+      "icon": "🔀",
+      "category": "Tools"
+    },
+    {
+      "name": "Next.js",
+      "level": 83,
+      "color": "#000000",
+      "icon": "▲",
+      "category": "Frontend"
+    },
+    {
+      "name": "GraphQL",
+      "level": 72,
+      "color": "#E535AB",
+      "icon": "◈",
+      "category": "API"
+    },
+    {
+      "icon": "⚡",
+      "name": "raspberry pi",
+      "level": 80,
+      "color": "#F95C4B",
+      "category": "Other"
+    },
+    {
+      "icon": "⚡",
+      "name": "qwertyu",
+      "level": 80,
+      "color": "#4df96a",
+      "category": "werty"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "Stanford University sagrkisfy",
+      "location": "Stanford, CA ,sagafka",
+      "year": "2019 – 2023wagsakh",
+      "grade": "GPA: 3.9/4.0mgk",
+      "description": "Specialized in Software Engineering and Artificial Inaertelligence. Thesis on distributed systems optimization.",
+      "achievements": [
+        "Dean's List 4 semesters",
+        "Hackathon Winner 2022",
+        "Research Assistant - AI Lab"
+      ]
+    },
+    {
+      "degree": "Higher Secondary (12th)asSdafgh",
+      "institution": "Valley View High Schoolsadfg",
+      "location": "San Jose, CAasdfg",
+      "year": "2017 – 2019adssfg",
+      "grade": "Score: 96%",
+      "description": "Science stream with Computer Science as major subject. School topper in Mathsdfghematics.",
+      "achievements": [
+        "Valedictorian 2019",
+        "Science Olympiad Gold",
+        "Coding Club Presidentasdafg"
+      ]
+    },
+    {
+      "degree": "Secondary (10th)sdfgh",
+      "institution": "Greenfield Academydsafg",
+      "location": "San Jose, CA",
+      "year": "2015 – 2017",
+      "grade": "Score: 98%",
+      "description": "Perfect scores in Mathematics and Science. Active participation in STEM activasdfgities.",
+      "achievements": [
+        "Perfect Score in Math",
+        "State Science Fair Winner",
+        "Student Council"
+      ]
+    },
+    {
+      "degree": "EATING",
+      "institution": " EATING UNIVERSITY",
+      "year": "2026",
+      "location": "PRODDATUR",
+      "grade": "9.8",
+      "description": "ABOUT EATING SLEEPING DOING VITTIUS THINGS",
+      "achievements": []
+    },
+    {
+      "degree": "writing",
+      "institution": "dvdbm,xzvkv",
+      "year": "2024",
+      "location": "dsdkjkadg",
+      "grade": "45",
+      "description": "fwfsadfbal.khf",
+      "achievements": [
+        "sfhfhhlfk"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "NexusChat",
+      "year": "2024",
+      "category": "Full Stack",
+      "description": "Real-time messaging platform with AI-powered suggestions, end-to-end encryption, and multi-room support for 10k+ concurrent users.",
+      "tech": [
+        "React",
+        "Node.js",
+        "Socket.io",
+        "MongoDB",
+        "Redis"
+      ],
+      "image": "",
+      "repo": "https://github.com/alexrivera/nexuschat",
+      "demo": "https://nexuschat.demo.dev",
+      "stars": "2.4k",
+      "borderStyle": "1",
+      "featured": true,
+      "color": "#F95C4B"
+    },
+    {
+      "title": "CloudCanvas",
+      "year": "2024",
+      "category": "SaaS",
+      "description": "Collaborative design tool with real-time editing, version history, and AI-assisted design suggestions. Used by 500+ teams.",
+      "tech": [
+        "Next.js",
+        "TypeScript",
+        "WebGL",
+        "AWS S3",
+        "Stripe"
+      ],
+      "image": "",
+      "repo": "https://github.com/alexrivera/cloudcanvas",
+      "demo": "https://cloudcanvas.io",
+      "stars": "1.8k",
+      "borderStyle": "2",
+      "featured": true,
+      "color": "#4F735C"
+    },
+    {
+      "title": "DataPulse kwhrwa",
+      "year": "2023 3t28",
+      "category": "Analytics",
+      "description": "Advanced analytics dashboard with ML-powered predictions, custom report builder, and real-time data visualization.",
+      "tech": [
+        "Vue.js",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "D3.js"
+      ],
+      "image": "",
+      "repo": "https://github.com/alexrivera/datapulse",
+      "demo": "https://datapulse.demo.dev",
+      "stars": "956",
+      "borderStyle": "3",
+      "featured": true,
+      "color": "#162660"
+    },
+    {
+      "title": "AutoDeploywerty",
+      "year": "20233245",
+      "category": "DevOps",
+      "description": "CI/CD pipeline automation tool with one-click deployments, rollback support, and multi-cloud provider integration.",
+      "tech": [
+        "Go",
+        "Docker",
+        "Kubernetes",
+        "GitHub API",
+        "Terraform"
+      ],
+      "image": "",
+      "repo": "https://github.com/alexrivera/autodeploy",
+      "demo": "https://autodeploy.dev",
+      "stars": "3.1k",
+      "borderStyle": "4",
+      "featured": true,
+      "color": "#00484D"
+    },
+    {
+      "title": "New Projectsdfghj gh,jkjzgwdfgdf",
+      "year": "202434565",
+      "category": "Web",
+      "description": "weasrfdghj",
+      "repo": "3456",
+      "demo": "",
+      "tech": [],
+      "stars": "",
+      "featured": false,
+      "color": "#F95C4B"
+    },
+    {
+      "title": "xftyivmjdfiu",
+      "year": "2024",
+      "category": "Web",
+      "description": "",
+      "repo": "www.google.com",
+      "demo": "www.gmail.com",
+      "tech": [
+        "erty"
+      ],
+      "stars": "3.9",
+      "featured": true,
+      "color": "#F95C4B"
+    },
+    {
+      "title": "EATING",
+      "year": "2024",
+      "category": "EATBF,JBVK,J",
+      "description": "DSSFDFGSGDIJKSBD,KJdhoqicbcbskfh",
+      "repo": "gkjadkj",
+      "demo": "fgkisayfysfgfiwaf",
+      "tech": [
+        "flnlkfssf"
+      ],
+      "stars": "5",
+      "featured": false,
+      "color": "#F95C4B"
+    }
+  ],
+  "internships": [
+    {
+      "company": "GooglezSdzfxghjkk",
+      "role": "Software Engineering Intern",
+      "duration": "May 2023 – Aug 2023",
+      "location": "Mountain View, CA",
+      "type": "Remote",
+      "description": "Worked on Google Cloud's internal developer tools team. Contributed to reducing deployment times by 40% through pipeline optimization.",
+      "tech": [
+        "Go",
+        "Kubernetes",
+        "gRPC",
+        "BigQuery"
+      ],
+      "logo": "G",
+      "color": "#4285F4",
+      "achievements": [
+        "Reduced CI/CD time by 40%",
+        "Shipped feature to 1M+ users",
+        "Best Intern Project Award"
+      ],
+      "mentorNote": "Exceptional problem-solving skills and attention to detail."
+    },
+    {
+      "company": "Stripeszdzfxgchvjbkn",
+      "role": "Frontend Engineering Intern",
+      "duration": "Jan 2023 – Apr 2023",
+      "location": "San Francisco, CA",
+      "type": "Hybrid",
+      "description": "Built new payment flow components for Stripe Dashboard. Improved accessibility scores from 72 to 98 across key pages.",
+      "tech": [
+        "React",
+        "TypeScript",
+        "CSS-in-JS",
+        "Jest"
+      ],
+      "logo": "S",
+      "color": "#635BFF",
+      "achievements": [
+        "A11y score 72→98",
+        "Zero prod bugs shipped",
+        "Launched in 15 countries"
+      ],
+      "mentorNote": "Outstanding UI/UX sensibility and code quality."
+    },
+    {
+      "company": "Vercel",
+      "role": "Open Source Intern",
+      "duration": "Jun 2022 – Aug 2022",
+      "location": "Remote",
+      "type": "Remote",
+      "description": "Contributed to Next.js ecosystem. Wrote documentation, fixed bugs, and built example applications used by thousands of developers.",
+      "tech": [
+        "Next.js",
+        "TypeScript",
+        "MDX",
+        "GitHub API"
+      ],
+      "logo": "▲",
+      "color": "#000000",
+      "achievements": [
+        "50+ PRs merged",
+        "15k+ stars on examples",
+        "Official Next.js tutorial author"
+      ],
+      "mentorNote": "Incredible documentation writing and developer empathy."
+    },
+    {
+      "company": "CompanyaSDFGHJK",
+      "role": "RoleSDFGHFJ",
+      "logo": "C",
+      "color": "#4285F4",
+      "duration": "2024",
+      "location": "",
+      "type": "Remote",
+      "description": "SDDFGHJH",
+      "tech": [],
+      "achievements": [],
+      "mentorNote": ""
+    }
+  ],
+  "certificates": [
+    {
+      "title": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "March 2024",
+      "credentialId": "AWS-SAA-2024-AR",
+      "description": "Professional-level certification validating expertise in designing distributed systems on AWS.",
+      "image": "",
+      "color": "#FF9900",
+      "icon": "☁️",
+      "verifyUrl": "https://aws.amazon.com/verify"
+    },
+    {
+      "title": "Google Professional Cloud Developer",
+      "issuer": "Google Cloud",
+      "date": "January 2024",
+      "credentialId": "GCP-PCD-2024",
+      "description": "Validates ability to build scalable and reliable applications using Google Cloud technologies.",
+      "image": "",
+      "color": "#4285F4",
+      "icon": "🌐",
+      "verifyUrl": "https://cloud.google.com/certifications"
+    },
+    {
+      "title": "Meta React Developer Certificate",
+      "issuer": "Meta / Coursera",
+      "date": "October 2023",
+      "credentialId": "META-RD-2023",
+      "description": "Advanced React development covering hooks, performance optimization, and modern patterns.",
+      "image": "",
+      "color": "#0668E1",
+      "icon": "⚛️",
+      "verifyUrl": "https://coursera.org/verify"
+    },
+    {
+      "title": "Kubernetes Administrator (CKA)",
+      "issuer": "CNCF / Linux Foundation",
+      "date": "August 2023",
+      "credentialId": "CKA-2023-AR",
+      "description": "Certified Kubernetes Administrator demonstrating proficiency in Kubernetes cluster management.",
+      "image": "",
+      "color": "#326CE5",
+      "icon": "⚙️",
+      "verifyUrl": "https://training.linuxfoundation.org/verify"
+    },
+    {
+      "title": "New CertificateXZCVGBHJK",
+      "issuer": "DZSXFCGHJKZDFXG",
+      "date": "2024",
+      "icon": "🏅",
+      "color": "#F95C4B",
+      "credentialId": "SADFGHJ",
+      "verifyUrl": "SADRFTFYU",
+      "description": "JGD,KJDGKA,KJDE"
+    },
+    {
+      "title": "EATING",
+      "issuer": "HOME",
+      "date": "2004-2026",
+      "icon": "🏅",
+      "color": "#4df9dd",
+      "credentialId": "XZ,CKXZCLZSJCJL",
+      "verifyUrl": "DSVKJEKHDF",
+      "description": "AEFCCGJKHFDFJLKGMNBFVHDGSTREYAURJKHYKLFD;OIUYT"
+    }
+  ],
+  "contact": {
+    "email": "hopeyourself04@portfolio.dev",
+    "phone": "123456789",
+    "location": "proddaturDSGG",
+    "availability": "Available for freelance & full-time roles"
+  },
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/alexrivera",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/alexrivera",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/alexrivera_dev",
+      "icon": "twitter"
+    },
+    {
+      "name": "Dev.to",
+      "url": "https://dev.to/alexrivera",
+      "icon": "dev"
+    },
+    {
+      "name": "CodePen",
+      "url": "https://codepen.io/alexrivera",
+      "icon": "codepen"
+    }
+  ],
+  "footer": {
+    "text": "Crafted with ❤️ by SUNAY",
+    "subtext": "Powered by GitHub Pages & Vanilla JS"
+  }
+}
