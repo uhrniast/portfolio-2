@@ -1,0 +1,821 @@
+{
+  "theme": "mariana",
+  "logo": {
+    "url": "",
+    "alt": "Portfolio Logo",
+    "width": "auto",
+    "height": "42",
+    "displayMode": "auto"
+  },
+  "ticker": {
+    "enabled": true,
+    "speed": 35,
+    "textColor": "#fff6e9",
+    "bgColor": "#003f47",
+    "items": [
+      "🚀 Available for new opportunities",
+      "⚡ React · Node.js · TypeScript · AWS",
+      "🎨 Building beautiful digital experiences",
+      "🤖 AI & ML integrations specialist",
+      "🌍 Open to remote worldwide",
+      "💡 3+ years · 48 projects shipped"
+    ]
+  },
+  "ads": {
+    "enabled": false,
+    "interval": 4000,
+    "items": []
+  },
+  "sectionColors": {
+    "hero": {
+      "bg": "",
+      "text1": "",
+      "text2": "",
+      "bgType": "theme",
+      "bgGradient": "",
+      "bgImage": "",
+      "cardBg": "",
+      "cardText": ""
+    },
+    "about": {
+      "bg": "",
+      "text1": "",
+      "text2": "",
+      "bgType": "theme",
+      "bgGradient": "",
+      "bgImage": "",
+      "cardBg": "",
+      "cardText": ""
+    },
+    "skills": {
+      "bg": "",
+      "text1": "",
+      "text2": "",
+      "bgType": "theme",
+      "bgGradient": "",
+      "bgImage": "",
+      "cardBg": "",
+      "cardText": ""
+    },
+    "projects": {
+      "bg": "",
+      "text1": "",
+      "text2": "",
+      "bgType": "theme",
+      "bgGradient": "",
+      "bgImage": "",
+      "cardBg": "",
+      "cardText": ""
+    },
+    "contact": {
+      "bg": "",
+      "text1": "",
+      "text2": "",
+      "bgType": "theme",
+      "bgGradient": "",
+      "bgImage": "",
+      "cardBg": "",
+      "cardText": ""
+    },
+    "footer": {
+      "bg": "",
+      "text1": "",
+      "text2": "",
+      "bgType": "theme",
+      "bgGradient": "",
+      "bgImage": "",
+      "cardBg": "",
+      "cardText": ""
+    },
+    "internships": {
+      "bgType": "theme",
+      "bgGradient": "",
+      "bgImage": "",
+      "cardBg": "",
+      "cardText": ""
+    },
+    "certificates": {
+      "bgType": "theme",
+      "bgGradient": "",
+      "bgImage": "",
+      "cardBg": "",
+      "cardText": ""
+    },
+    "education": {}
+  },
+  "aiAssistant": {
+    "enabled": true,
+    "name": "Alex's Assistant",
+    "greeting": "Hi! 👋 I'm Alex's portfolio AI. Ask me about his skills, projects, experience, or how to get in touch!",
+    "systemPrompt": "You are a helpful AI assistant for Alex Rivera's developer portfolio. Answer questions about his skills (React, Node.js, TypeScript, Python, etc.), projects (NexusChat, CloudCanvas, DataPulse, AutoDeploy), experience (Google, Stripe, Vercel internships), education (Stanford CS), and how to contact him (alex@portfolio.dev). Be friendly, concise, and professional. If asked something unrelated, politely redirect to portfolio topics.",
+    "placeholder": "Ask about my skills, projects, or experience…",
+    "quickQuestions": [
+      "Tell me about this portfolio",
+      "What projects are available?",
+      "What are the main skills?",
+      "How can I contact Alex?"
+    ],
+    "proxyUrl": "",
+    "fallbackResponse": "I'm Alex's portfolio assistant! I can tell you about his skills, projects, experience, and how to get in touch. What would you like to know?",
+    "typingEffect": true
+  },
+  "hero": {
+    "greeting": "Hi there 👋 Welcome to my Portfolio",
+    "name": "Alex Rivera",
+    "title": "Full Stack Developer & UI/UX Designer",
+    "typingTexts": [
+      "Full Stack Developer",
+      "React Specialist",
+      "UI/UX Designer",
+      "Cloud Architect",
+      "AI Engineer"
+    ],
+    "description": "I craft pixel-perfect web applications that blend elegant design with robust engineering. 3+ years turning complex problems into beautiful, scalable solutions.",
+    "stats": [
+      {
+        "num": "3",
+        "label": "Years Exp"
+      },
+      {
+        "num": "48",
+        "label": "Projects"
+      },
+      {
+        "num": "12k",
+        "label": "GitHub Stars"
+      },
+      {
+        "num": "99",
+        "label": "Client Score"
+      }
+    ]
+  },
+  "marquee": {
+    "items": [
+      "⚛️ React",
+      "🐳 Docker",
+      "☁️ AWS",
+      "🎨 Figma",
+      "🐍 Python",
+      "▲ Next.js",
+      "🟩 Node.js",
+      "📘 TypeScript",
+      "🌐 GraphQL",
+      "⚙️ Kubernetes",
+      "🍃 MongoDB",
+      "🐘 PostgreSQL",
+      "🎯 Redis",
+      "🔄 CI/CD",
+      "🤖 TensorFlow"
+    ],
+    "enabled": true,
+    "speed": 28,
+    "bgColor": "#ffbd76",
+    "textColor": "#0a171d",
+    "fontSize": "0.8",
+    "height": "2.2"
+  },
+  "about": {
+    "title": "The Story Behind the Code",
+    "subtitle": "Behind the Code",
+    "description": "I'm Alex Rivera, a passionate Full Stack Developer based in San Francisco. I specialize in building modern web applications using React, Node.js, and cloud technologies.\n\nWith a background in both design and engineering, I bring a unique perspective to every project — creating experiences that are not just functional, but genuinely delightful to use.\n\nWhen I'm not coding, you'll find me contributing to open source, writing about web development, or exploring the latest AI tools.",
+    "details": [
+      {
+        "icon": "🏠",
+        "label": "Location",
+        "value": "San Francisco, CA"
+      },
+      {
+        "icon": "🎓",
+        "label": "Degree",
+        "value": "BS Computer Science, MIT"
+      },
+      {
+        "icon": "💼",
+        "label": "Status",
+        "value": "Available for hire"
+      },
+      {
+        "icon": "🌐",
+        "label": "Languages",
+        "value": "English, Spanish"
+      },
+      {
+        "icon": "☕",
+        "label": "Coffee/day",
+        "value": "3 cups (minimum)"
+      },
+      {
+        "icon": "🎮",
+        "label": "Hobby",
+        "value": "Game dev & 3D art"
+      }
+    ],
+    "funFacts": [
+      "🚀 Deployed 12 apps to production in 2024",
+      "🌍 Worked with clients from 18 countries",
+      "📚 Read 24 tech books last year",
+      "🏆 Won 3 hackathons in 2 years",
+      "⚡ My fastest coffee-to-PR time: 47 minutes",
+      "🎯 95% test coverage on all my projects"
+    ],
+    "availability": "Available for hire"
+  },
+  "skills": [
+    {
+      "name": "React",
+      "level": 95,
+      "color": "#61dafb",
+      "icon": "⚛️",
+      "category": "Frontend"
+    },
+    {
+      "name": "TypeScript",
+      "level": 90,
+      "color": "#3179c6",
+      "icon": "📘",
+      "category": "Frontend"
+    },
+    {
+      "name": "Next.js",
+      "level": 88,
+      "color": "#ffffff",
+      "icon": "▲",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": 92,
+      "color": "#06b5d4",
+      "icon": "🎨",
+      "category": "Frontend"
+    },
+    {
+      "name": "Vue.js",
+      "level": 78,
+      "color": "#4fc08d",
+      "icon": "🟢",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node.js",
+      "level": 93,
+      "color": "#339933",
+      "icon": "🟩",
+      "category": "Backend"
+    },
+    {
+      "name": "Python",
+      "level": 85,
+      "color": "#3777ab",
+      "icon": "🐍",
+      "category": "Backend"
+    },
+    {
+      "name": "GraphQL",
+      "level": 80,
+      "color": "#e1009a",
+      "icon": "◈",
+      "category": "Backend"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 82,
+      "color": "#336791",
+      "icon": "🐘",
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+      "level": 79,
+      "color": "#47a249",
+      "icon": "🍃",
+      "category": "Backend"
+    },
+    {
+      "name": "AWS",
+      "level": 84,
+      "color": "#ff9900",
+      "icon": "☁️",
+      "category": "DevOps"
+    },
+    {
+      "name": "Docker",
+      "level": 86,
+      "color": "#2496ed",
+      "icon": "🐳",
+      "category": "DevOps"
+    },
+    {
+      "name": "Kubernetes",
+      "level": 72,
+      "color": "#326be5",
+      "icon": "⚙️",
+      "category": "DevOps"
+    },
+    {
+      "name": "GitHub Actions",
+      "level": 88,
+      "color": "#2088ff",
+      "icon": "🔄",
+      "category": "DevOps"
+    },
+    {
+      "name": "Figma",
+      "level": 87,
+      "color": "#f24f1e",
+      "icon": "🎨",
+      "category": "Design"
+    },
+    {
+      "name": "Three.js",
+      "level": 74,
+      "color": "#049cf4",
+      "icon": "🌐",
+      "category": "3D/AI"
+    },
+    {
+      "name": "TensorFlow",
+      "level": 68,
+      "color": "#ff6f00",
+      "icon": "🤖",
+      "category": "3D/AI"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science — Computer Science",
+      "institution": "Massachusetts Institute of Technology",
+      "year": "2019 – 2023",
+      "location": "Cambridge, MA",
+      "grade": "GPA 3.9 / 4.0",
+      "description": "Specialized in Human-Computer Interaction and Distributed Systems. Senior thesis on real-time collaborative editing using CRDTs.",
+      "achievements": [
+        "Dean's List 4 years",
+        "ACM ICPC Finalist",
+        "Best Thesis Award",
+        "Teaching Assistant — Web Dev"
+      ]
+    },
+    {
+      "degree": "AWS Certified Solutions Architect",
+      "institution": "Amazon Web Services",
+      "year": "2022",
+      "location": "Online",
+      "grade": "Score: 892/1000",
+      "description": "Professional-level certification covering cloud architecture, cost optimization, and security best practices.",
+      "achievements": [
+        "Professional Tier",
+        "Top 5% Score"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "NexusChat",
+      "year": "2024",
+      "category": "SaaS",
+      "description": "Real-time collaborative chat platform with AI-powered message summaries, thread management, and end-to-end encryption. Serving 50k+ active users.",
+      "repo": "https://github.com",
+      "demo": "https://nexuschat.demo",
+      "stars": "2.4k",
+      "featured": true,
+      "color": "#61dafb",
+      "preview": "chat",
+      "tech": [
+        "React",
+        "Node.js",
+        "Socket.io",
+        "PostgreSQL",
+        "Redis",
+        "AWS"
+      ],
+      "highlights": [
+        "50k+ active users",
+        "99.9% uptime SLA",
+        "E2E encrypted messages",
+        "AI-powered summaries"
+      ]
+    },
+    {
+      "title": "CloudCanvas",
+      "year": "2024",
+      "category": "Design Tool",
+      "description": "Browser-based collaborative design tool with real-time cursors, vector editing, and one-click export to Figma/Sketch formats.",
+      "repo": "https://github.com",
+      "demo": "https://cloudcanvas.demo",
+      "stars": "3.1k",
+      "featured": true,
+      "color": "#f24f1e",
+      "preview": "design",
+      "tech": [
+        "Vue.js",
+        "Canvas API",
+        "WebSockets",
+        "Go",
+        "MongoDB"
+      ],
+      "highlights": [
+        "Real-time collaboration",
+        "Figma export",
+        "100k+ vectors",
+        "WebGL renderer"
+      ]
+    },
+    {
+      "title": "DataPulse",
+      "year": "2023",
+      "category": "Analytics",
+      "description": "Analytics dashboard with ML-powered anomaly detection. Integrates with 40+ data sources and provides predictive insights in real time.",
+      "repo": "https://github.com",
+      "demo": "https://datapulse.demo",
+      "stars": "1.8k",
+      "featured": false,
+      "color": "#8a5cf6",
+      "preview": "analytics",
+      "tech": [
+        "Next.js",
+        "Python",
+        "TensorFlow",
+        "ClickHouse",
+        "Grafana"
+      ],
+      "highlights": [
+        "40+ integrations",
+        "ML anomaly detection",
+        "Real-time alerts",
+        "Custom dashboards"
+      ]
+    },
+    {
+      "title": "AutoDeploy",
+      "year": "2023",
+      "category": "DevOps",
+      "description": "CI/CD orchestration platform that automates deployment pipelines, manages rollbacks, and provides cost-optimized cluster scaling.",
+      "repo": "https://github.com",
+      "demo": "https://autodeploy.demo",
+      "stars": "4.2k",
+      "featured": true,
+      "color": "#22c55e",
+      "preview": "devops",
+      "tech": [
+        "Go",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "GitHub Actions"
+      ],
+      "highlights": [
+        "Zero-downtime deploys",
+        "Auto-rollback",
+        "Cost savings 40%",
+        "500+ deployments/day"
+      ]
+    }
+  ],
+  "internships": [
+    {
+      "company": "Google",
+      "role": "Software Engineering Intern",
+      "duration": "May 2023 – Aug 2023",
+      "location": "Mountain View, CA",
+      "type": "On-site",
+      "description": "Worked on Google Maps' real-time traffic prediction system using ML models. Improved prediction accuracy by 18% on highway segments.",
+      "logo": "G",
+      "color": "#4286f4",
+      "tech": [
+        "C++",
+        "Python",
+        "TensorFlow",
+        "BigQuery",
+        "Spanner"
+      ],
+      "achievements": [
+        "Improved traffic prediction accuracy by 18%",
+        "Shipped feature to 1 billion+ users",
+        "Reduced inference latency by 35ms",
+        "Filed 2 internal patents"
+      ],
+      "mentorNote": "Alex showed exceptional initiative — best intern project in the Maps team this quarter."
+    },
+    {
+      "company": "Stripe",
+      "role": "Frontend Engineer Intern",
+      "duration": "Jun 2022 – Aug 2022",
+      "location": "San Francisco, CA",
+      "type": "Hybrid",
+      "description": "Built components for Stripe's payment dashboard. Redesigned the transaction history UI, reducing support tickets by 23%.",
+      "logo": "S",
+      "color": "#635bff",
+      "tech": [
+        "React",
+        "TypeScript",
+        "Ruby",
+        "PostgreSQL",
+        "Cypress"
+      ],
+      "achievements": [
+        "Reduced support tickets by 23%",
+        "Built 12 reusable React components",
+        "99.8% test coverage on my components",
+        "Presented at intern demo day"
+      ],
+      "mentorNote": "One of the most thorough and detail-oriented interns I've mentored in 5 years."
+    },
+    {
+      "company": "Vercel",
+      "role": "Open Source Contributor → Intern",
+      "duration": "Jan 2022 – May 2022",
+      "location": "Remote",
+      "type": "Remote",
+      "description": "Started as an open-source contributor to Next.js, then joined as an intern. Contributed to the App Router architecture and edge runtime optimizations.",
+      "logo": "▲",
+      "color": "#ffffff",
+      "tech": [
+        "Next.js",
+        "Rust",
+        "Node.js",
+        "Turbopack",
+        "Vercel Edge"
+      ],
+      "achievements": [
+        "Merged 34 PRs to Next.js repo",
+        "Contributed to App Router RFC",
+        "Edge runtime 2x performance gain",
+        "Became top-10 Next.js contributor"
+      ],
+      "mentorNote": "Alex's open source contributions speak for themselves — quality is consistently exceptional."
+    }
+  ],
+  "certificates": [
+    {
+      "title": "AWS Certified Solutions Architect – Professional",
+      "issuer": "Amazon Web Services",
+      "date": "Dec 2023",
+      "credentialId": "AWS-PSA-2023-47829",
+      "description": "Advanced cloud architecture certification covering multi-region designs, disaster recovery, and cost optimization strategies.",
+      "icon": "☁️",
+      "color": "#ff9900",
+      "verifyUrl": "https://aws.amazon.com/verification"
+    },
+    {
+      "title": "Google Cloud Professional Data Engineer",
+      "issuer": "Google Cloud",
+      "date": "Sep 2023",
+      "credentialId": "GCP-DE-2023-83921",
+      "description": "Expertise in building data processing systems, ML pipelines, and real-time analytics on Google Cloud Platform.",
+      "icon": "📊",
+      "color": "#4286f4",
+      "verifyUrl": "https://cloud.google.com/certification/verify"
+    },
+    {
+      "title": "Meta Frontend Developer Professional",
+      "issuer": "Meta (Coursera)",
+      "date": "Mar 2023",
+      "credentialId": "META-FE-2023-11204",
+      "description": "Comprehensive React and modern web development certification covering advanced patterns, testing, and accessibility.",
+      "icon": "⚛️",
+      "color": "#0867ff",
+      "verifyUrl": "https://coursera.org/verify"
+    },
+    {
+      "title": "Certified Kubernetes Administrator",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "Jan 2023",
+      "credentialId": "CKA-2023-00582-ALEX",
+      "description": "Hands-on Kubernetes administration including cluster setup, networking, storage, security, and troubleshooting.",
+      "icon": "⚙️",
+      "color": "#326be5",
+      "verifyUrl": "https://training.linuxfoundation.org/certification/verify"
+    }
+  ],
+  "contact": {
+    "title": "Let's Create Something Amazing",
+    "subtitle": "Open to full-time roles, freelance projects, and interesting collaborations.",
+    "email": "alex.rivera@example.com",
+    "phone": "+1 (415) 555-0192",
+    "location": "San Francisco, CA (Open to Remote)",
+    "availability": "Available for hire · Open to full-time & freelance"
+  },
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com",
+      "icon": "twitter"
+    },
+    {
+      "name": "Dev.to",
+      "url": "https://dev.to",
+      "icon": "dev"
+    },
+    {
+      "name": "CodePen",
+      "url": "https://codepen.io",
+      "icon": "codepen"
+    }
+  ],
+  "footer": {
+    "text": "Designed & Built by Alex Rivera",
+    "subtext": "© 2024 · Made with ❤️ and too much coffee"
+  },
+  "splash": {
+    "logoText": "Su",
+    "tagline": "Loading Portfolio…",
+    "showOnce": true,
+    "type": "logo",
+    "bgColor": "",
+    "bgImage": "",
+    "duration": 2500,
+    "bgGradient": "linear-gradient(135deg,#0A171D,#003F47)",
+    "bgVideo": "",
+    "textColor": "#FFF6E9"
+  },
+  "adSection": {
+    "enabled": true,
+    "height": 280,
+    "carousel": true,
+    "interval": 4000,
+    "items": [
+      {
+        "type": "gradient",
+        "title": "Open to Opportunities",
+        "sub": "Full Stack Developer · React · Node.js · AWS",
+        "bg": "linear-gradient(135deg,#003F47,#0A171D)",
+        "accent": "#FFBD76"
+      },
+      {
+        "type": "gradient",
+        "title": "Available for Freelance",
+        "sub": "UI/UX Design · Web Apps · AI Integration",
+        "bg": "linear-gradient(135deg,#1A0F1F,#003F47)",
+        "accent": "#D4856A"
+      },
+      {
+        "type": "gradient",
+        "title": "Let's Build Together",
+        "sub": "Get in touch → alex@portfolio.dev",
+        "bg": "linear-gradient(135deg,#0C3B2E,#003F47)",
+        "accent": "#FFBA00"
+      }
+    ]
+  },
+  "heroTheme": "image",
+  "heroCustom": {
+    "bg": "linear-gradient(135deg,#0A171D,#003F47)",
+    "bgType": "gradient",
+    "bgImage": "https://4kwallpapers.com/cars/aston-martin-amr26-25911.html",
+    "bgVideo": "",
+    "overlay": "rgba(0,0,0,0.4)",
+    "overlayEnabled": true,
+    "textColor": "#fff6e9",
+    "accentColor": "#ffbd76",
+    "btnPrimary": "#FFBD76",
+    "btnOutline": "transparent",
+    "alignment": "center",
+    "fontStyle": "modern",
+    "bgGradient": "linear-gradient(135deg,#0A171D,#003F47)",
+    "videoBlur": 0
+  },
+  "sectionThemes": {
+    "about": {
+      "bgType": "theme",
+      "bg": "",
+      "bgGradient": "",
+      "bgImage": "",
+      "text1": "",
+      "text2": "",
+      "textDesc": "",
+      "cardBg": "",
+      "cardText": "",
+      "layout": "grid",
+      "animation": "slideUp",
+      "align": "left"
+    },
+    "skills": {
+      "bgType": "theme",
+      "bg": "",
+      "bgGradient": "",
+      "bgImage": "",
+      "text1": "",
+      "text2": "",
+      "textDesc": "",
+      "cardBg": "",
+      "cardText": "",
+      "layout": "grid",
+      "animation": "slideUp",
+      "align": "left"
+    },
+    "education": {
+      "bgType": "theme",
+      "bg": "",
+      "bgGradient": "",
+      "bgImage": "",
+      "text1": "",
+      "text2": "",
+      "textDesc": "",
+      "cardBg": "",
+      "cardText": "",
+      "layout": "grid",
+      "animation": "slideUp",
+      "align": "left"
+    },
+    "projects": {
+      "bgType": "theme",
+      "bg": "",
+      "bgGradient": "",
+      "bgImage": "",
+      "text1": "",
+      "text2": "",
+      "textDesc": "",
+      "cardBg": "",
+      "cardText": "",
+      "layout": "grid",
+      "animation": "slideUp",
+      "align": "left"
+    },
+    "internships": {
+      "bgType": "theme",
+      "bg": "",
+      "bgGradient": "",
+      "bgImage": "",
+      "text1": "",
+      "text2": "",
+      "textDesc": "",
+      "cardBg": "",
+      "cardText": "",
+      "layout": "grid",
+      "animation": "slideUp",
+      "align": "left"
+    },
+    "certificates": {
+      "bgType": "theme",
+      "bg": "",
+      "bgGradient": "",
+      "bgImage": "",
+      "text1": "",
+      "text2": "",
+      "textDesc": "",
+      "cardBg": "",
+      "cardText": "",
+      "layout": "grid",
+      "animation": "slideUp",
+      "align": "left"
+    },
+    "contact": {
+      "bgType": "theme",
+      "bg": "",
+      "bgGradient": "",
+      "bgImage": "",
+      "text1": "",
+      "text2": "",
+      "textDesc": "",
+      "cardBg": "",
+      "cardText": "",
+      "layout": "grid",
+      "animation": "slideUp",
+      "align": "left"
+    },
+    "footer": {
+      "bgType": "theme",
+      "bg": "",
+      "bgGradient": "",
+      "bgImage": "",
+      "text1": "",
+      "text2": "",
+      "textDesc": "",
+      "cardBg": "",
+      "cardText": "",
+      "layout": "grid",
+      "animation": "slideUp",
+      "align": "left"
+    }
+  },
+  "dynamicIsland": {
+    "showMobile": true,
+    "showDesktop": false,
+    "showScrollTop": true,
+    "showAIChat": true,
+    "showContact": true,
+    "logo": "",
+    "bg": "#00ba00",
+    "color": "#00ba00",
+    "border": "#00ba00",
+    "accent": "#ffbd76",
+    "blur": 20,
+    "radius": 50,
+    "size": "medium",
+    "position": "bottom-center"
+  },
+  "_v": 2,
+  "_savedAt": 1774896003633
+}
