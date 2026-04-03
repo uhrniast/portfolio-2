@@ -184,12 +184,12 @@
       {
         "icon": "🏠",
         "label": "Location",
-        "value": "San Francisco, CA"
+        "value": "Proddatur"
       },
       {
         "icon": "🎓",
         "label": "Degree",
-        "value": "BS Computer Science, MIT"
+        "value": "CSE with cyber security including block chain technology with iot"
       },
       {
         "icon": "💼",
@@ -199,26 +199,18 @@
       {
         "icon": "🌐",
         "label": "Languages",
-        "value": "English, Spanish"
-      },
-      {
-        "icon": "☕",
-        "label": "Coffee/day",
-        "value": "3 cups (minimum)"
+        "value": "Telugu,English"
       },
       {
         "icon": "🎮",
         "label": "Hobby",
-        "value": "Game dev & 3D art"
+        "value": "creating,Dseveloping"
       }
     ],
     "funFacts": [
-      "🚀 Deployed 12 apps to production in 2024",
-      "🌍 Worked with clients from 18 countries",
-      "📚 Read 24 tech books last year",
-      "🏆 Won 3 hackathons in 2 years",
-      "⚡ My fastest coffee-to-PR time: 47 minutes",
-      "🎯 95% test coverage on all my projects"
+      "🎯 95% test coverage on all my projects",
+      "🎈programming hardware",
+      "🪛 diy projects"
     ],
     "availability": "Available for hire"
   },
@@ -345,29 +337,42 @@
   ],
   "education": [
     {
-      "degree": "Bachelor of Science — Computer Science",
+      "degree": "Bachelor of  Technology-Cic",
       "institution": "siiddharth instute of engineering and technology",
-      "year": "2019 – 2023",
-      "location": "Cambridge, MA",
-      "grade": "GPA 3.9 / 4.0",
-      "description": "Specialized in Human-Computer Interaction and Distributed Systems. Senior thesis on real-time collaborative editing using CRDTs.",
+      "year": "2022-2026",
+      "location": "Puttur,Andhra Pradesh",
+      "grade": "GPA 7.7/10.0",
+      "description": "Specialized in Cyber Security with integration IoT Devices",
       "achievements": [
         "Dean's List 4 years",
-        "ACM ICPC Finalist",
         "Best Thesis Award",
-        "Teaching Assistant — Web Dev"
+        "Teaching Assistant"
       ]
     },
     {
-      "degree": "AWS Certified Solutions Architect",
-      "institution": "Amazon Web Services",
-      "year": "2022",
-      "location": "Online",
-      "grade": "Score: 892/1000",
+      "degree": "Intermediate",
+      "institution": "Deepthi Junior College",
+      "year": "2020-2022",
+      "location": "Proddatur",
+      "grade": "Gpa 65/100",
       "description": "Professional-level certification covering cloud architecture, cost optimization, and security best practices.",
       "achievements": [
         "Professional Tier",
-        "Top 5% Score"
+        "Intermediate level education"
+      ]
+    },
+    {
+      "degree": "Secondary education",
+      "institution": "Narayana Groups of Schools",
+      "year": "2020",
+      "location": "Proddatur",
+      "grade": "GPA 9.8/10",
+      "description": "School life at Narayana Groups of School is filled with joyful learning, friendships, and unforgettable memories. It shapes our future by teaching discipline, knowledge, and life values.",
+      "achievements": [
+        "full of memories",
+        "full and strict",
+        "milestones",
+        "excellence"
       ]
     }
   ],
@@ -593,9 +598,9 @@
   "contact": {
     "title": "Let's Create Something Amazing",
     "subtitle": "Open to full-time roles, freelance projects, and interesting collaborations.",
-    "email": "alex.rivera@example.com",
-    "phone": "+1 (415) 555-0192",
-    "location": "San Francisco, CA (Open to Remote)",
+    "email": "hopeyourself04@gmail.com",
+    "phone": "123456789",
+    "location": "Proddatur",
     "availability": "Available for hire · Open to full-time & freelance"
   },
   "social": [
@@ -685,7 +690,7 @@
     "bg": "linear-gradient(135deg,#0A171D,#003F47)",
     "bgType": "image",
     "bgImage": "https://drive.google.com/file/d/1JKh5trzvLS3bhCDkUSD7YyQmXRMN42wR/view?usp=drivesdk",
-    "bgVideo": "https://www.pexels.com/download/video/10613973/",
+    "bgVideo": "https://www.pexels.com/download/video/16456768/",
     "overlay": "rgba(0,0,0,0.4)",
     "overlayEnabled": true,
     "textColor": "#fff6e9",
@@ -828,5 +833,5 @@
     "position": "bottom-center"
   },
   "_v": 2,
-  "_savedAt": 1775204320895
+  "_savedAt": 1775205507471
 }
