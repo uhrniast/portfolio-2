@@ -685,7 +685,7 @@
     "bg": "linear-gradient(135deg,#0A171D,#003F47)",
     "bgType": "image",
     "bgImage": "https://drive.google.com/file/d/1JKh5trzvLS3bhCDkUSD7YyQmXRMN42wR/view?usp=drivesdk",
-    "bgVideo": "C:\\Users\\sunay\\OneDrive\\Pictures\\sports-car-futuristic-mountain-sunset-1920x1080.jpg",
+    "bgVideo": "https://i.postimg.cc/yxKvV10g/sports-car-futuristic-mountain-sunset-1920x1080.jpg",
     "overlay": "rgba(0,0,0,0.4)",
     "overlayEnabled": true,
     "textColor": "#fff6e9",
@@ -828,5 +828,5 @@
     "position": "bottom-center"
   },
   "_v": 2,
-  "_savedAt": 1775201455111
+  "_savedAt": 1775203768874
 }
